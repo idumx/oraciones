@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Oraciones/00 - Inicio/","tags":["gardenEntry"],"created":"2024-06-03T00:23:58.512-06:00","updated":"2025-05-08T23:36:48.922-06:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/Oraciones/00 - Inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-06-03T00:23:58.512-06:00","updated":"2025-05-09T15:58:45.380-06:00"}
 ---
 
 > [!tldr] MURO 
@@ -40,5 +40,3 @@
 > | [[Diario/2024-03-08\|2024-03-08]] |
 > 
 { .block-language-dataview}
-
-#test 
