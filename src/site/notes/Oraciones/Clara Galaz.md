@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Summary":null,"Tipo":["Muro"],"Actualizado":null,"Status":["De cuidado"],"permalink":"/Oraciones/Clara Galaz/","dgPassFrontmatter":true,"created":"2025-05-09T16:20:07.390-06:00","updated":"2025-05-09T16:21:17.815-06:00"}
+{"dg-publish":true,"permalink":"/Oraciones/Clara Galaz/","created":"2025-05-09T16:20:07.390-06:00","updated":"2025-05-09T16:21:17.815-06:00"}
 ---
 
 Área:: Internacional
