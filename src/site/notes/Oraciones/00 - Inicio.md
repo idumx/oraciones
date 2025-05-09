@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/Oraciones/00 - Inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-06-03T00:23:58.512-06:00","updated":"2025-05-09T15:58:45.380-06:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/Oraciones/00 - Inicio/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2024-06-03T00:23:58.512-06:00","updated":"2025-05-09T16:14:45.486-06:00"}
 ---
 
 > [!tldr] MURO 
@@ -14,7 +14,7 @@
 > 
 { .block-language-dataview}
 
-> [!tip] FIJO 
+> [!tldr] FIJO 
 >  | Nombre                                          | Resumen                        | Actualizado | Área             |
 > | ----------------------------------------------- | ------------------------------ | ----------- | ---------------- |
 > | [[Oraciones/Esther Sainos\|Esther Sainos]]   | Delicada de salud              | 05 May 24   | Ciudad de México |
