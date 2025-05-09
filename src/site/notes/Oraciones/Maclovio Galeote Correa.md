@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Oraciones/Maclovio Galeote Correa/","created":"2024-06-03T05:48:08.991-06:00","updated":"2025-02-19T10:33:09.745-06:00"}
+{"dg-publish":true,"Summary":"Se encontró sin vida","Tipo":[],"Actualizado":"2024-05-05","Status":["Fallecimiento"],"permalink":"/Oraciones/Maclovio Galeote Correa/","dgPassFrontmatter":true,"created":"2024-06-03T05:48:08.991-06:00","updated":"2025-02-19T10:33:09.745-06:00"}
 ---
 
 Área:: Ciudad de México

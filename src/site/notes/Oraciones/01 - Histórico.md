@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Oraciones/01 - Histórico/"}
+{"dg-publish":true,"permalink":"/Oraciones/01 - Histórico/","dgPassFrontmatter":true,"created":"2024-06-04T12:48:48.317-06:00","updated":"2025-02-19T10:33:09.927-06:00"}
 ---
 
 > [!tldr] Menú 
